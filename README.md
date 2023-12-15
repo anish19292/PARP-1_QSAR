@@ -1,1 +1,1 @@
-This repository contains python codes for ML-based classification and regression QSAR.
+This repository contains Python codes for ML-based classification and regression QSAR. The code covers importing necessary libraries and data, division of data into training and test sets, feature selection, data balancing using the SMOTE algorithm, model building using several machine learning algorithms, and model validation. 
